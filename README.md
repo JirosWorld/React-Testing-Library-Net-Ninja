@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# TESTING TUTORIAL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://www.youtube.com/watch?v=7dTTFW7yACQ
+
+## Getting Started with Create React App
+
+This "TASK LIST" project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
